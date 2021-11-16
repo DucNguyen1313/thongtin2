@@ -12,3 +12,4 @@
 # **Kĩ năng**
  * Python cơ bản
  * C++ cơ bản
+
